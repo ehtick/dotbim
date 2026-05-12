@@ -79,6 +79,7 @@ If you're a developer, check out this document: https://github.com/paireks/dotbi
 | Name | Purpose | Link | Author |
 | ---- | ------- | ---- | ------ |
 | dotbim | Library written in C# language | you're looking at it right now ;) | Wojciech Radaczyński |
+| dotbim-community | Library written in Python language | https://github.com/thekaushikls/dotbim-community | Kaushik LS |
 | dotbimpy | Library written in Python language | https://github.com/paireks/dotbimpy | Wojciech Radaczyński |
 | dotbim_rust | Library written in Rust language | https://github.com/paireks/dotbim_rust | Wojciech Radaczyński |
 | dotbim-ts | Library written in Typescript language | https://github.com/baid-group/dotbim-ts | Maciej Lutostański |
